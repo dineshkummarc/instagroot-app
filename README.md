@@ -12,4 +12,4 @@ Demo App is available on [Google Play Store](https://play.google.com/store/apps/
 Groot pictures taken from
 [Pixabay](https://pixabay.com/images/search/groot/),
 [Pexels](https://www.pexels.com/search/groot/),
-[IconFinder](https://www.iconfinder.com/search/?q=groot).
+[IconFinder](https://www.iconfinder.com/search/?q=groot)
